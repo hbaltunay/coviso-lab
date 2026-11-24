@@ -6,8 +6,8 @@ This repository contains core implementations, infrastructure components, and re
 
 | # | Name | Level | Language |
 | :---: | :--- | :---: | :---: |
-| 1 | [Multi-Source GStreamer](https://github.com/hbaltunay/coviso-lab/tree/main/levels/1/multi-source-gstreamer) | 1 | C++|
-| 2 | | | |
+| 1 | [Multi-Source GStreamer](https://github.com/hbaltunay/coviso-lab/tree/main/levels/1/multi-source-gstreamer) | 1 | C++ |
+| 2 | [Any Batch Queue](https://github.com/hbaltunay/coviso-lab/tree/main/levels/1/any-batch-queue) | 1 | C++ |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
