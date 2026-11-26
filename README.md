@@ -1,3 +1,5 @@
+<p align="center"> <img src=".github/assets/banner.png" width="400" /> </p>
+
 # COVISO LAB
 
 This repository contains core implementations, infrastructure components, and reusable modules developed for computer vision projects.
