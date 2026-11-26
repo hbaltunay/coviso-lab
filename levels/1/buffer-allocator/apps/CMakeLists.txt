@@ -1,3 +1,3 @@
-add_executable(buffer_allocator main.cpp)
+add_executable(buffer_allocator_app main.cpp)
 
-target_link_libraries(buffer_allocator PRIVATE cv)
+target_link_libraries(buffer_allocator_app PRIVATE cv)
