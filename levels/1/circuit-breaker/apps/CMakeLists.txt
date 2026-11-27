@@ -1,0 +1,3 @@
+add_executable(circuit_breaker_app main.cpp)
+
+target_link_libraries(circuit_breaker_app PRIVATE cv)
